@@ -29,3 +29,4 @@ def test_add_to_cart():
 
     assert cart_badge == "1"
     driver.quit()
+# Assignment Pipeline Verification Entry
